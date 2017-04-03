@@ -2,7 +2,7 @@
 //  SettingsViewController.m
 //  DrawPad
 //
-//  Created by Ray Wenderlich on 9/3/12.
+//  Created by Engel Alipio on 9/3/12.
 //  Copyright (c) 2017 Engel Alipio. All rights reserved.
 //
 
